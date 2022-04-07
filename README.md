@@ -28,12 +28,9 @@
   <h3 align="center">✨ About me ✨ </h3>
 <p align="center" float="left">
 
-<a href="https://ye-ryung.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=https://www.instagram.com/ryu_ri_m/?hl=ko"/></a>
+<a href="https://bigtyno.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=?hl=ko"/></a>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigtyno931128&show_icons=true&theme=tokyonight) 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigtyno931128&layout=compact&theme=tokyonight)
   
-<!---
-ohyeryung/ohyeryung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
