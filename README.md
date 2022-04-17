@@ -28,7 +28,7 @@
   <h3 align="center">✨ About me ✨ </h3>
 <p align="center" float="left">
  
- <script src="https://gist.github.com/jsjune/c5255ec14480eb6c277b49c5a7e2cb07.js"></script>
+
 
 <a href="https://bigtyno.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=?hl=ko"/></a>
  
